@@ -1,0 +1,16 @@
+body{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+
+}
+#lamp{
+    width:400px;
+
+}
+#switch{
+    width:170px;
+    background: #ccc;;
+    padding:10px 20px;
+    margin-left:300px;
+}
